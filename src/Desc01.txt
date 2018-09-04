@@ -1,0 +1,11 @@
+Test01
+1.cmd
+2. go to java dir
+
+3.To compile:	javac HelloWorld.java
+4.T3o execute:	java HelloWorld
+5.Enjoy
+	
+
+
+
